@@ -9,7 +9,7 @@ import streamlit as st
 from PIL import Image
 import torch
 from torchvision import transforms
-from model import MyModel  # Assuming you have your model class in a file called model.py
+from model import MyModel  # Assuming you have your model class in a file called 
 
 # Load your trained model
 model = MyModel()
