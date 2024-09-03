@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  7 13:06:31 2024
 
-@author: prachet
-"""
 import numpy as np
 import pickle
 import streamlit as st
