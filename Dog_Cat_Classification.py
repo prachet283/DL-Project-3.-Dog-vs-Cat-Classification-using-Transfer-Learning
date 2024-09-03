@@ -12,7 +12,7 @@ from PIL import Image
 # Load your trained model
 
 
-model = pickle.load(open(r"C:\Users\prachet\OneDrive - Vidyalankar Institute of Technology\Desktop\Coding\Machine Learning\DEEP LEARNING\DL Project 3. Dog vs Cat Classification using Transfer Learning\cat_dog_classification_trained_model.sav")) 
+model = pickle.load(open(r"DL Project 3. Dog vs Cat Classification using Transfer Learning\cat_dog_classification_trained_model.sav")) 
 
 def predict_image(image):
     # Preprocess the image
